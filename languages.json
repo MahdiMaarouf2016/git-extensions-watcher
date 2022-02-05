@@ -1,0 +1,85 @@
+[
+    {
+        "label": "JavaScript",
+        "extensions": [
+            "js"
+        ],
+        "rank": 1
+    },
+    {
+        "label": "Python",
+        "extensions": [
+            "py"
+        ],
+        "rank": 2
+    },
+    {
+        "label": "Java",
+        "extensions": [
+            "jsp",
+            "jspx",
+            "wss",
+            "do",
+            "action",
+            "class",
+            "java"
+        ],
+        "rank": 3
+    },
+    {
+        "label": "C++/C",
+        "extensions": [
+            "cpp",
+            "h",
+            "c"
+        ],
+        "rank": 4
+    },
+    {
+        "label": "Shell",
+        "extensions": [
+            "sh"
+        ],
+        "rank": 5
+    },
+    {
+        "label": "PHP",
+        "extensions": [
+            "php",
+            "phtml",
+            "php3",
+            "php4"
+        ],
+        "rank": 6
+    },
+    {
+        "label": "Perl",
+        "extensions": [
+            "pl",
+            "cgi"
+        ],
+        "rank": 7
+    },
+    {
+        "label": "Ruby",
+        "extensions": [
+            "rb",
+            "rhtml"
+        ],
+        "rank": 8
+    },
+    {
+        "label": "C Sharp",
+        "extensions": [
+            "cs"
+        ],
+        "rank": 9
+    },
+    {
+        "label": "TypeScript",
+        "extensions": [
+            "ts"
+        ],
+        "rank": 10
+    }
+]
